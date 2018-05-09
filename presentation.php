@@ -15,6 +15,8 @@
             <div class="texte "> Dévouvrez de nouveaux étudiants <br>intéressants, polyvalant et motivé !  </div>
         </div>
 
+        <p>alo</p>
+
         <div class="box three">
         </div>
 
