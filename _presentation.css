@@ -9,7 +9,17 @@
 
 #container .box > div {
    
+      width: 100px;
+    height: 100px;
+    font-size: 96px;
+    color: #FFF;
     position: absolute;
+    top: 50%;
+    left: 50%;
+    margin: -50px 0 0 -50px;
+    line-height: .7;
+    font-weight: bold;
+
 }
 
 
@@ -29,6 +39,7 @@
     transform-origin: top left;
     white-space: nowrap;
     font-size: 0;
+
 }
 
 .one {

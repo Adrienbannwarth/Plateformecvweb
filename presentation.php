@@ -6,23 +6,26 @@
 <div id="container">
     <div id="container2">
 
-
-        <div class="box one">  
-        <div class="texte">1</div> 
+        
+        <div class="box one">
+            <div class="ex"> hi  </div>
+            <div>
+                
+            </div>
         </div>
 
         <div class="box two">
-            <div class="texte "> Dévouvrez de nouveaux étudiants <br>intéressants, polyvalant et motivé !  </div>
-        </div>
+            <div>2
 
-        <p>alo</p>
+            </div>
+        </div>
 
         <div class="box three">
+            <div>3</div>
         </div>
-
         <div class="box four">
+            <div>Last</div>
         </div>
-
     </div>
 </div>
 
