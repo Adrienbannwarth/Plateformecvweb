@@ -8,6 +8,9 @@
 
         
         <div class="box one">
+
+      
+
             <div class="extrois">Offre de Stage  </div>
             <div>
                 
@@ -20,12 +23,7 @@
             </div>
         </div>
 
-        <div class="box three">
-            <div>3</div>
-        </div>
-        <div class="box four">
-            <div>Last</div>
-        </div>
+       
     </div>
 </div>
 
